@@ -30,3 +30,6 @@ This script:
 
 ```bash
 pip install beautifulsoup4 requests
+```
+## 🛡️ Disclaimer
+### This is for educational and research purposes only. Always respect website terms of service when scraping.
